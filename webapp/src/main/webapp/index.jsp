@@ -2,3 +2,4 @@
 <h2><%= "greetings" %></h2>
 <h3> another greetings</h3>
 hello
+<h1 style="color:red">Code updated and deployed through Ansible</h1>
